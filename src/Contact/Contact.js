@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+
+//add contact info
 class Contact extends Component {
     render() {
         return (

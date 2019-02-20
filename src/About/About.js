@@ -1,4 +1,7 @@
 import React, { Component } from 'react';
+
+//add about 
+
 class About extends Component {
     render() {
         return (
